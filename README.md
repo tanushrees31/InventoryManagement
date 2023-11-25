@@ -3,6 +3,10 @@
 ### Introduction 
 An inventory management system is a vital component of efficient  management that allows businesses to effectively monitor,control and optimize their inventory.The goal of  is to ensure that the right products are available in the right quantities, at the right time, and at an optimal cost. 
 
+### Architecture
+
+![Screenshot (245)](https://github.com/tanushrees31/InventoryManagement/assets/94157726/0ca699ca-93e2-4962-aefa-508fce6d66bc)
+
 ### Prerequisite 
 C++ Language
 Gedit
