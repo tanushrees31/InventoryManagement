@@ -26,3 +26,17 @@ for add,delete, update, save, load your inventory management program.
 
 ### Output
 It allows you to add items to the inventory, display the current inventory,Update, Save, Load and exit the program.
+
+![Screenshot (246)](https://github.com/tanushrees31/InventoryManagement/assets/94157726/126e5e59-509c-46d9-8fd4-7a56d0076f07)
+
+
+
+![Screenshot (247)](https://github.com/tanushrees31/InventoryManagement/assets/94157726/a9412a73-6496-4559-8d31-e8989508e586)
+
+
+
+![Screenshot (248)](https://github.com/tanushrees31/InventoryManagement/assets/94157726/aaf6afdb-eb29-4f6f-b597-7bca43436800)
+
+
+
+![Screenshot (249)](https://github.com/tanushrees31/InventoryManagement/assets/94157726/04a593e8-4e38-488d-bbb8-53b2a632dcc0)
