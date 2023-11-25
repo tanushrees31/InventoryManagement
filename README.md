@@ -20,7 +20,7 @@ Make sure you have a C compiler installed.
 Use your preferred text editor to create a new C file.
 
 3 Write the C Code
-Write the C code for add,delete, update, save, load your inventory management program.
+for add,delete, update, save, load your inventory management program.
 
 4 Run the Program
 
